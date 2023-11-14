@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sir-danksalot.github.io/small-site/sitemap.xml
+Sitemap: https://sir-danksalot.github.io/sitemap.xml
