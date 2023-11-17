@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: areeb_cv.pdf
+description: Here is hopefully a (relatively recently updated) CV. A pdf version can be reached by clicking the icon labeled "pdf" (which should also specify how recent it is).
 toc:
   sidebar: left
 ---

@@ -32,3 +32,34 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Fritz":
+  - firstname: ["Tobias", "T."]
+    url: http://tobiasfritz.science
+
+"Klingler":
+  - firstname: ["Andreas", "A."]
+    url: https://www.uibk.ac.at/th-physik/staff/klingler
+
+"McNeely":
+  - firstname: ["Drew", "D."]
+
+"Wang":
+  - firstname: ["Yuwen", "Y."]
+    url: https://math.moe
+
+"Gonda":
+  - firstname: ["Tomáš", "T."]
+    url: https://www.uibk.ac.at/th-physik/staff/gonda
+
+"Lorenzin":
+  - firstname: ["Antonio", "A."]
+    url: https://sites.google.com/view/antonio-lorenzin
+
+"Stein":
+  - firstname: ["Dario", "D."]
+    url: https://dario-stein.de
+
+"Perrone":
+  - firstname: ["Paolo", "P."]
+    url: http://www.paoloperrone.org/
