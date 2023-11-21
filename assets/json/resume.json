@@ -51,7 +51,8 @@
         "Derived Categories",
         "Seminar: Topoi, Logic and Forcing",
         "Seminar: Homotopical Algebra - Model Categories"
-      ]
+      ],
+      "courses": ["A detailed list of courses can be found in the pdf version."]
     },
     {
       "institution": "Chennai Mathematical Institute",
@@ -62,7 +63,8 @@
       "endDate": "2020",
       "commentedOut_courses": [
         "Linear Algebra (Algebra 1)", "Real Analysis (Analysis 1)", "Functional Programming in Haskell", "Classical Mechanics", "English Literature", "Group Theory (Algebra 2)", "Multivariable Analysis (Analysis 2)", "Probability Theory", "Discrete Mathematics", "Imperative Programming with Python", "Rings, Fields and Modules (Algebra 3)", "Analysis on Metric Spaces (Analysis 3)", "Calculus", "The Theory of Computation", "Algorithms", "Algebraic Topology (Graduate Topology 2)", "Complex Analysis", "Point-Set Topology (Topology)", "Differential Equations", "The Design of Programming Languages (PLC)", "Algebraic Geometry 1", "Introductory Type-Theory (Proofs and Types)", "Introduction to Manifolds", "Introduction to Formal Logic", "Geometric Group Theory", "Algebraic Geometry 2", "Galois Theory (Algebra 4)", "The Art of Short Fiction"
-      ]
+      ],
+      "courses": ["A detailed list of courses can be found in the pdf version."]
     }
   ],
   "awards": [
