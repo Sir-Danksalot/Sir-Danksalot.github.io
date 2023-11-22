@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Personal website of Areeb Shah Mohammed, doctoral student at the <a href='https://www.uibk.ac.at/mathematik/personal/areeb/'>Universität Innsbruck</a>
 
 profile:
   align: right
