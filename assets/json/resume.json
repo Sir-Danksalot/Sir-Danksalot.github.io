@@ -2,9 +2,9 @@
   "basics": {
     "name": "Areeb Shah Mohammed",
     "label": "Doctoral Student",
-    "image": "",
-    "email": "Areeb.Shah-Mohammed (at) uibk.ac.at",
-    "phone": "(+43) 67(six)9-309(one)00",
+    "image": "prof_pic.jpg",
+    "email": "Areeb.Shah-Mohammed@uibk.ac.at",
+    "phone": "(+43) 6769-309100",
     "url": "https://areeb.site",
     "summary": "Doctoral student at the math department of the Universität Innsbruck, interested in (applied) category theory in general and categorical probability in particular.",
     "location": {
@@ -148,7 +148,7 @@
       "language": "Tamil"
     }
   ],
-  "interests": [],
+  "interests": [{"name": "Mathematics", "keywords": ["category theory", "probability", "homotopy theory", "applied mathematics"]}, {"name": "Computer Science","keywords": ["type theory", "functional programming", "logic", "denotational semantics"]}],
   "references": [],
   "projects": []
 }
