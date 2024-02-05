@@ -98,7 +98,12 @@
     }
   ],
   "certificates": [],
-  "publications": [],
+  "publications": [{"name": "Hidden Markov Models and the Bayes Filter in Categorical Probability",
+  "publisher": "preprint",
+  "releaseDate": "26 January 2024",
+  "url": "https://arxiv.org/abs/2401.14669",
+  "summary": "We use Markov categories to develop generalizations of the theory of Markov chains and hidden Markov models in an abstract setting."}
+  ],
   "skills": [{
     "name": "Python",
     "keywords": ["programming","scripting"]
