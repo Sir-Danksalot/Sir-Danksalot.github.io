@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-# This website is currently under construction
-
 ### Hello World!
 
 I am a doctoral student at the [Universität Innsbruck](https://www.uibk.ac.at/en/), working in the [Department of Mathematics](https://www.uibk.ac.at/mathematik/index.html.en).

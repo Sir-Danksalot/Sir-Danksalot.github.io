@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some of the things I've tried my hand at over the years (or more accurately the last few).<h3>This page is under construction</h3>
+description: Some of the things I've tried my hand at over the years (or more accurately the last few)
 nav: true
 nav_order: 2
 display_categories: [work, fun]
