@@ -29,7 +29,6 @@
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "Universität Regensburg",
@@ -103,6 +102,13 @@
   "releaseDate": "26 January 2024",
   "url": "https://arxiv.org/abs/2401.14669",
   "summary": "We use Markov categories to develop generalizations of the theory of Markov chains and hidden Markov models in an abstract setting."}
+  ],
+  "volunteer": [{
+    "organization": "Náboj",
+    "url": "https://math.naboj.org/gb/en/",
+    "position": "Organiser",
+    "summary": "Náboj is an international mathematical competition designed for teams of five high‑school students that represent their schools.",
+    "highlights": ["Organising Náboj 2024 at the Universität Innsbruck."]}
   ],
   "skills": [{
     "name": "Python",
